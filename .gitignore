@@ -20,3 +20,5 @@ ENV/
 *.log
 *.sql
 *.sqlite3
+.vscode
+settings.json
